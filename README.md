@@ -1,13 +1,6 @@
-                                                     # Udacityproject
-                                                    
-  This Repo consists of project made on udacity FULL STACK WEB DEVLOPMENT Course.
-  
-  FULL STACK WEB DEVLOPMENT:Is a nanodegree course on Udacity,it teaches us both front end and Back end concepts.
-  
-  In this repository you can find Projects based on related to different topics.
-  Like Project movie trailer,using made using Python interface and so on.
-                                          ---MOVIE TRAILER---
-This project is about showing a web page having different movie images and shows their trailer when we click on the images.
+   Udacity Full Stack Web Developer Nanodeegree
+                                          MOVIE TRAILER
+Web page having different movie images with names and shows their trailer when we click on the images.
 
 #Installation
   -install Python 2.7
