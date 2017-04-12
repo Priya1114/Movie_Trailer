@@ -1,8 +1,8 @@
-   Udacity Full Stack Web Developer Nanodeegree
+##Udacity Full Stack Web Developer Nanodeegree Project
    
    MOVIE TRAILER
  
-Web page having different movie images with names and shows their trailer when we click on the images.
+Displays a Web page having different movie images with names and shows their trailer when we click on the images.
 
 #How to use:
 
